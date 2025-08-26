@@ -42,7 +42,7 @@ Upload your work to Moodle by midnight of the due date, saved as a PDF. Include 
 ### Schedule
 __September 3 Week 1__ - Introductions, Open Source and knowledge sharing.   
 __September 10 Week 2__ - Tools for teaching tech and Docmentation. Lets learn some Python!  
-__September 17 Week 3__ - Guest Lecture: Making Tech Zines: sid drmay and Shabaka Jadhav.  
+__September 17 Week 3__ - Guest Lecture: Making Tech Zines: sid drmay and Shalaka Jadhav.  
 __September 24 Week 4__- Peer teaching & discussion: Art & AI.    
 __October 1 Week 5__ - Peer teaching & discussion: Creative Code (p5.js, Python).  
 __October 8  Week 6__ - Virtual Tour of the Media Archeology Lab with libi striegl. Information design lecture with Emily Volk.   
