@@ -48,7 +48,7 @@ __October 1 Week 5__ - Peer teaching & discussion: Creative Code (p5.js, Python)
 __October 8  Week 6__ - Virtual Tour of the Media Archeology Lab with libi striegl. Information design lecture with Emily Volk.   
 __October 15 >> NO CLASS, HAVE A GOOD BREAK! <<__  
 __October 22 Week 7__ - Peer teaching & discussion: DIY Electronics (Arduino).   
-__October 29 Week 8__ -  Peer teaching & discussion: E-Textiles / Wearable Electronics.   
+__October 29 Week 8__ -  Peer teaching & discussion: Video or photo production or editing
 __November 5 Week 9__ - Peer teaching & discussion: Digital Fabrication (3D printer or laser cutting).    
 __November 12 Week 10__ - Studio Session, Zine fair!  (zines due)  
 __November 19 Week 11__ - Studio Session.    

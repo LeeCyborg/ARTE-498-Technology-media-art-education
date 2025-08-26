@@ -10,7 +10,7 @@ Select a simple technical project in the area you have chosen and guide us throu
 __September 24__ AI & Artwork  
 __October 1__	Creative Code (Software)  
 __October 22__	DIY Electronics  
-__October 29__	Wearable Electronics / Craft and E-Textiles  
+__October 29__	Video or photo production or editing
 __November 5__	Digital Fabrication  
 
 Topics can be found here, sign up week 1 and connect with your peers: Sign up on a day you are **not** leading a discussion.  https://docs.google.com/spreadsheets/d/1UH9ZbvzEoN-NOyu0JVz7wyjB4G2bmuJ8G1c3Xy1_zUk/edit?usp=sharing   
